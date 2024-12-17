@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OClockTravel</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="signin">Войти</string>
+    <string name="name">Путешествия</string>
+</resources>
